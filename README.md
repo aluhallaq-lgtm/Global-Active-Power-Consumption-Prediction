@@ -8,8 +8,6 @@
 
 - Handles missing values and performs data cleaning and preprocessing
 
-- Identifies features (Voltage, Current, Temperature, etc.) and the target variable (Global Active Power)
-
 - Uses Pandas, NumPy, and Matplotlib for data manipulation and visualization
 
 - Applies Linear Regression and evaluates performance using R² and Mean Squared Error (MSE)
