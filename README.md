@@ -2,7 +2,7 @@
 ### A machine learning model to predict global active power consumption based on historical data. Utilizes feature engineering for accurate forecasting.
 
 ---
-##Features
+## Features
 
 - Loads and explores the household power consumption dataset from CSV
 
