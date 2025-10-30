@@ -1,5 +1,5 @@
 # Global-Active-Power-Consumption-Prediction
-### A machine learning model to predict global active power consumption based on historical data. Utilizes feature engineering for accurate forecasting.
+### Uses a machine learning model to predict global active power consumption based on historical data. Utilizes feature engineering for accurate forecasting.
 
 ---
 ## Features
